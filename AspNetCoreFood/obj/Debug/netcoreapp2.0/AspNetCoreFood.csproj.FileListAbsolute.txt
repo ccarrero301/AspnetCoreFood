@@ -1,0 +1,21 @@
+C:\Examples\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.deps.json
+C:\Examples\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.runtimeconfig.json
+C:\Examples\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.runtimeconfig.dev.json
+C:\Examples\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.dll
+C:\Examples\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.pdb
+C:\Examples\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.csproj.CoreCompileInputs.cache
+C:\Examples\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfoInputs.cache
+C:\Examples\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfo.cs
+C:\Examples\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.dll
+C:\Examples\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.pdb
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.deps.json
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.runtimeconfig.json
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.runtimeconfig.dev.json
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.dll
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.pdb
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.csprojResolveAssemblyReference.cache
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.csproj.CoreCompileInputs.cache
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfoInputs.cache
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfo.cs
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.dll
+C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.pdb
