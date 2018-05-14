@@ -13,7 +13,6 @@ C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNet
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.runtimeconfig.dev.json
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.dll
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\bin\Debug\netcoreapp2.0\AspNetCoreFood.pdb
-C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.csprojResolveAssemblyReference.cache
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.csproj.CoreCompileInputs.cache
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfoInputs.cache
 C:\Yuxi Programming\AspNetCoreFood\AspNetCoreFood\obj\Debug\netcoreapp2.0\AspNetCoreFood.AssemblyInfo.cs
