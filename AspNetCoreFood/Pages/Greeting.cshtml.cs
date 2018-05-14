@@ -12,6 +12,7 @@ namespace AspNetCoreFood.Pages
         {
             _greeter = greeter;
         }
+
         public void OnGet(string name)
         {
             CurrentGreeting = $"{name} :  {_greeter.GetMessageOfTheDay()}";

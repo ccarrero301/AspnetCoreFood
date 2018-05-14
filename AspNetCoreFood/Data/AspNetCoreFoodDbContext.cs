@@ -10,7 +10,6 @@ namespace AspNetCoreFood.Data
         public AspNetCoreFoodDbContext(DbContextOptions options)
             : base(options)
         {
-            
         }
     }
 }

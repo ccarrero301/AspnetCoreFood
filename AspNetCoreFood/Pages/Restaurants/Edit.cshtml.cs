@@ -1,10 +1,12 @@
 using AspNetCoreFood.Models;
 using AspNetCoreFood.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AspNetCoreFood.Pages.Restaurants
 {
+    [Authorize]
     public class EditModel : PageModel
     {
         private readonly IRestaurantData _restaurantData;
@@ -16,6 +18,7 @@ namespace AspNetCoreFood.Pages.Restaurants
         {
             _restaurantData = restaurantData;
         }
+
         public IActionResult OnGet(int id)
         {
             Restaurant = _restaurantData.Get(id);
@@ -39,6 +42,5 @@ namespace AspNetCoreFood.Pages.Restaurants
 
             return RedirectToAction("Details", "Home", new {id = Restaurant.Id});
         }
-
     }
 }

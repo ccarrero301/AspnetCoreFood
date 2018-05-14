@@ -1,10 +1,12 @@
 ﻿using AspNetCoreFood.Models;
 using AspNetCoreFood.Services;
 using AspNetCoreFood.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AspNetCoreFood.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly IRestaurantData _restaurantData;
@@ -16,13 +18,13 @@ namespace AspNetCoreFood.Controllers
             _greeter = greeter;
         }
 
+        [AllowAnonymous]
         public IActionResult Index()
         {
             var model = new HomeIndexViewModel
             {
                 Restaurants = _restaurantData.GetAll(),
                 CurrentMessage = _greeter.GetMessageOfTheDay()
-
             };
 
             return View(model);
@@ -63,7 +65,7 @@ namespace AspNetCoreFood.Controllers
 
             newRestaurant = _restaurantData.Add(newRestaurant);
 
-            return RedirectToAction(nameof(Details), new { id = newRestaurant.Id });
+            return RedirectToAction(nameof(Details), new {id = newRestaurant.Id});
         }
     }
 }
